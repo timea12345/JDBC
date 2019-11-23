@@ -11,7 +11,7 @@ public class App {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/employees";
     private static final String USER_NAME = "root";
-    private static final String PASSWORD = "timea123";
+    private static final String PASSWORD = "";
     private static Connection connection;
 
     public static void main(String[] args) throws SQLException {
